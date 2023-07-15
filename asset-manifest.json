@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/TheCocktailsDB-API-React/static/css/main.9fa4e672.css",
-    "main.js": "/TheCocktailsDB-API-React/static/js/main.96dda43a.js",
+    "main.js": "/TheCocktailsDB-API-React/static/js/main.479511fc.js",
     "index.html": "/TheCocktailsDB-API-React/index.html",
     "main.9fa4e672.css.map": "/TheCocktailsDB-API-React/static/css/main.9fa4e672.css.map",
-    "main.96dda43a.js.map": "/TheCocktailsDB-API-React/static/js/main.96dda43a.js.map"
+    "main.479511fc.js.map": "/TheCocktailsDB-API-React/static/js/main.479511fc.js.map"
   },
   "entrypoints": [
     "static/css/main.9fa4e672.css",
-    "static/js/main.96dda43a.js"
+    "static/js/main.479511fc.js"
   ]
 }
